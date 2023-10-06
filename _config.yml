@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Lakes in Greece
 baseurl: "beautiful-jekyll"
 
 # Your name to show in the footer
@@ -21,7 +21,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Team: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
