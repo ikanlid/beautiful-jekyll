@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About team
-permalink: /abouteam/
+permalink: /aboutteam/
 subtitle: Why you'd want to go on a date with me
 ---
 
